@@ -1,3 +1,5 @@
 Hello All
 
 I have modified this file to test how git behaves.
+
+This story is about the friendship between a frog and a mouse and shows how your actions against others can backfire on yourself. This story will teach your child about the African saying “Don’t dig too deep a pit for your enemy, you may fall into it yourself”.
