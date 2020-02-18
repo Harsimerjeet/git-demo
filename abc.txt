@@ -1,4 +1,0 @@
-Hi there !
-Good Morning
-
-Testing how git fetch works 
